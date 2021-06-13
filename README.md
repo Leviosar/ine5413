@@ -1,22 +1,11 @@
-# Disciplina
-
-## Cronograma
-
-<!-- Adicionar cronograma -->
-
-| Data   | Hora  | Conteúdo                           |
-|--------|-------|------------------------------------|
-| 02/SET | 13:30 | Apresentação da disciplina         |
-| 16/SET | 13:30 | Discussão sobre as atividades de C |
-| 18/SET | 10:10 | Fechamento da Unidade 1            |
+# INE5413 - Grafos
 
 ## Horários de aula
 
-| Dia     | Hora  |
-|---------|-------|
-| Segunda | 13:30 |
-| Terça   | 13:30 |
-| Quarta  | 10:10 |
+| Dia                 | Hora          |
+| ------------------- | ------------- |
+| Segunda (Síncrona)  | 08:20 - 10:00 |
+| Quarta (Assíncrona) | 10:10 - 11:50 |
 
 ## Trabalhos
 
